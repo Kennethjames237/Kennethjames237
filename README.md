@@ -1,4 +1,4 @@
-#💫 About Me:
+💫 About Me:
 👨‍💻 Computer Science Graduate | M.Sc. Student in Computer Engineering at Politecnico di Torino (POLITO)<br>
 🎓 Graduated in Computer Science from the University of Parma with a final grade of 101/110<br>
 📚 Currently pursuing a Master's degree in Computer Engineering, specialising in Computing and Network Infrastructure at Politecnico di Torino<br>
