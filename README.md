@@ -1,5 +1,10 @@
-# 💫 About Me:
-👨‍💻 Computer Science Student | University of Parma<br>🎓 3rd-year CS student, close to completing my Bachelor’s degree<br>💡 Passionate about technology, software development, and problem solving<br>☁️🌐 Interested in cloud computing and network infrastructure (future Master’s focus)<br>🚀 Always learning, building, and exploring new tools<br>🌍 Languages: English 🇬🇧 | Italian 🇮🇹 | French 🇫🇷
+#💫 About Me:
+👨‍💻 Computer Science Graduate | M.Sc. Student in Computer Engineering at Politecnico di Torino (POLITO)<br>
+🎓 Graduated in Computer Science from the University of Parma with a final grade of 101/110<br>
+📚 Currently pursuing a Master's degree in Computer Engineering, specialising in Computing and Network Infrastructure at Politecnico di Torino<br>
+💡 Passionate about software engineering, cloud computing, distributed systems, networking, and cybersecurity<br>
+🚀 Continuously learning, building projects, and exploring modern technologies to develop scalable and reliable software solutions<br>
+🌍 Languages: English 🇬🇧 | Italian 🇮🇹 | French 🇫🇷
 
 
 ## 🌐 Socials:
